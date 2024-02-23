@@ -1,0 +1,17 @@
+footer {
+    background-color: #333; /* Dark background color */
+    color: #fff; /* White text color */
+    padding: 20px; /* Padding around the content */
+    text-align: center; /* Center align text */
+}
+
+footer p {
+    margin: 5px 0; /* Add some margin between paragraphs */
+}
+
+/* Style the email link */
+footer a {
+    color: #fff; /* White text color for links */
+    text-decoration: none; /* Remove default underline */
+    font-weight: bold; /* Make the link bold */
+}
